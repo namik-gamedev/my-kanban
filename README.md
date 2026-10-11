@@ -23,6 +23,8 @@ yarn dev
 
 ## Разработка
 
+Стек: Vite, React, Typescript, Zustand, TanStack Router, DnD Kit
+
 ```bash
 yarn lint
 yarn typecheck
